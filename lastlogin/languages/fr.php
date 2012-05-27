@@ -13,13 +13,13 @@
 
 $french = array(
 'lastlogin:online' => '- en ligne -',
-'lastlogin:lastlogin' => 'Dernière connexion',
+'lastlogin:lastlogin' => 'DerniÃ¨re connexion',
 'lastlogin:today' => 'aujourd\'hui',
-'lastlogin:hour' => 'dans la dernière heure',
+'lastlogin:hour' => 'dans la derniÃ¨re heure',
 'lastlogin:joindate' => 'Date d\'inscription',
 'lastlogin:guid' => 'GUID de ce membre',
 
-'lastlogin:settings:lastlogin_info' => 'Les paramètres suivants vous permettent de configurer les éléments à afficher sur les pages de profil: le temps du dernier login du membre, la date à laquelle il a rejoint le site et le GUID du membre <br> Pour le temps du dernier login et la date d\'inscription, vous pouvez choisir de ne pas l\'afficher ou de les afficher uniquement aux admins ou à tout le monde. Le GUID du membre peut être soit caché à tout le monde ou rendu visible seulement aux admins.',
+'lastlogin:settings:lastlogin_info' => 'Les paramÃ¨tres suivants vous permettent de configurer les Ã©lÃ©ments Ã  afficher sur les pages de profil: le temps du dernier login du membre, la date Ã  laquelle il a rejoint le site et le GUID du membre <br> Pour le temps du dernier login et la date d\'inscription, vous pouvez choisir de ne pas l\'afficher ou de les afficher uniquement aux admins ou Ã  tout le monde. Le GUID du membre peut Ãªtre soit cachÃ© Ã  tout le monde ou rendu visible seulement aux admins.',
 'lastlogin:settings:lastlogin_time' => 'Afficher date et heure du dernier login? ',
 'lastlogin:settings:registered_time' => 'Afficher date la d\'inscription? ',
 'lastlogin:settings:guid' => 'Afficher le GUID des membres (visible uniquement par les admins)? ',

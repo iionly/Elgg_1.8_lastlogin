@@ -2,7 +2,7 @@
 <plugin_manifest xmlns="http://www.elgg.org/plugin_manifest/1.8">
         <name>Last Login</name>
         <author>iionly (for Elgg 1.8), Fabrice Collette</author>
-        <version>1.8.0</version>
+        <version>1.8.1</version>
         <category>enhancement</category>
         <description>Display time of last login, join date and a members's GUID. The visibility of time of last login and join date can be set to none, admin only or everyone. Visibility of member's GUID is either none or admin only.</description>
         <website>https://github.com/iionly</website>
