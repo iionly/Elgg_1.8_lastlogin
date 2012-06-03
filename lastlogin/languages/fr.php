@@ -19,9 +19,9 @@ $french = array(
 'lastlogin:joindate' => 'Date d\'inscription',
 'lastlogin:guid' => 'GUID de ce membre',
 
-'lastlogin:settings:lastlogin_info' => 'Les paramètres suivants vous permettent de configurer les éléments à afficher sur les pages de profil: le temps du dernier login du membre, la date à laquelle il a rejoint le site et le GUID du membre <br> Pour le temps du dernier login et la date d\'inscription, vous pouvez choisir de ne pas l\'afficher ou de les afficher uniquement aux admins ou à tout le monde. Le GUID du membre peut être soit caché à tout le monde ou rendu visible seulement aux admins.',
+'lastlogin:settings:lastlogin_info' => 'Les paramètres suivants vous permettent de configurer les éléments à afficher sur les pages de profil: la date et l\'heure du dernier login de ce membre, la date à laquelle il a rejoint le site et le GUID du membre <br> Pour la date et l\'heure du dernier login ainsi que pour la date d\'inscription, vous pouvez choisir soit de ne pas les afficher, soit de les afficher uniquement aux admins soit à tout le monde. Similairement, le GUID du membre peut être soit caché pour tout le monde ou rendu visible seulement aux admins.',
 'lastlogin:settings:lastlogin_time' => 'Afficher date et heure du dernier login? ',
-'lastlogin:settings:registered_time' => 'Afficher date la d\'inscription? ',
+'lastlogin:settings:registered_time' => 'Afficher la date d\'inscription? ',
 'lastlogin:settings:guid' => 'Afficher le GUID des membres (visible uniquement par les admins)? ',
 'lastlogin:settings:no' => 'Non',
 'lastlogin:settings:yes' => 'Oui',
