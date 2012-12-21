@@ -1,6 +1,6 @@
 Lastlogin for Elgg 1.8
-Latest Version: 1.8.2
-Released: 2012-06-09
+Latest Version: 1.8.3
+Released: 2012-12-21
 Contact: iionly@gmx.de
 License: GNU General Public License version 2
 Copyright: (c) iionly 2012 (for Elgg 1.8), (C) Fabrice Collette 2009
@@ -22,6 +22,10 @@ The client side needs to have a Java runtime environment plugin installed in the
 
 
 Changelog:
+
+1.8.3 (by iionly):
+
+- Danish translation added (thank to Herauf).
 
 1.8.2 (by iionly):
 
