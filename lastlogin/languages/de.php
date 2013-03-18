@@ -17,6 +17,7 @@ $german = array(
 'lastlogin:lastlogin' => 'Letzte Anmeldung',
 'lastlogin:today' => 'heute',
 'lastlogin:hour' => 'innerhalb der letzten Stunde',
+'lastlogin:never' => 'noch nie',
 'lastlogin:joindate' => 'Mitglied seit',
 'lastlogin:guid' => 'Benutzer-GUID',
 

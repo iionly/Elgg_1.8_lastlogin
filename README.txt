@@ -1,6 +1,6 @@
 Lastlogin for Elgg 1.8
-Latest Version: 1.8.3
-Released: 2012-12-21
+Latest Version: 1.8.4
+Released: 2013-03-18
 Contact: iionly@gmx.de
 License: GNU General Public License version 2
 Copyright: (c) iionly 2012 (for Elgg 1.8), (C) Fabrice Collette 2009
@@ -22,6 +22,10 @@ The client side needs to have a Java runtime environment plugin installed in the
 
 
 Changelog:
+
+1.8.4 (by iionly):
+
+- Check if user has logged in ever (unix timestamp of last_login == 0 ?). If never logged in show "never" instead of "1970/1/1". Thanks to Elggor for reporting this issue.
 
 1.8.3 (by iionly):
 

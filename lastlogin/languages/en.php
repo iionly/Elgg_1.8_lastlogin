@@ -16,6 +16,7 @@ $english = array(
 'lastlogin:lastlogin' => 'Last login',
 'lastlogin:today' => 'today',
 'lastlogin:hour' => 'within last hour',
+'lastlogin:never' => 'never',
 'lastlogin:joindate' => 'Join date',
 'lastlogin:guid' => 'Member\'s GUID',
 

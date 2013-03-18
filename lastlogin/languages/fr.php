@@ -16,6 +16,7 @@ $french = array(
 'lastlogin:lastlogin' => 'Dernière connexion',
 'lastlogin:today' => 'aujourd\'hui',
 'lastlogin:hour' => 'dans la dernière heure',
+'lastlogin:never' => 'jamais',
 'lastlogin:joindate' => 'Date d\'inscription',
 'lastlogin:guid' => 'GUID de ce membre',
 
